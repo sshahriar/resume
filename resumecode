@@ -1,0 +1,257 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Original author:
+% Rahul Chauhan (http://rahulchauhan.net)
+%
+% Original repository:
+% https://github.com/rahulworld/rahulworld-Resume
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{rahulworld-resume}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+\begin{large}
+	\headername{Shahriar Newaz}\\
+\end{large}
+Competitive Programmer\\
+Expert (max.1720) on Codeforces
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education} 
+\noindent\rule{5cm}{0.4pt}\\
+\datecolor{2016-{\custombold{Expected:}}2021}
+\subsection{B.Sc in CSE}
+International Islamic University Chittagong \\
+CGPA : 3.096/4.00\\
+
+%\vspace{8pt}
+%\datecolor{2013-2015}
+%\subsection{Intermediate}
+%Chattagram Biggan College\\
+%GPA: 4.25/5.00\\
+  
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Links} 
+\noindent\rule{5cm}{0.4pt}
+
+LinkedIn://  \href{https://www.linkedin.com/in/shahriar-newaz}{\custombold{shahriar-newaz}} \\
+Codeforces://  \href{https://codeforces.com/profile/shahriar_c137}{\custombold{shahriar\_c137}}
+
+Codeforces://  \href{https://codeforces.com/profile/thedragonslayer}{\custombold{thedragonslayer}}
+
+LightOj://  \href{https://lightoj.com/user/shahriar-shh}{\custombold{shahriar-shh}}
+
+UvaOj://  \href{https://uhunt.onlinejudge.org/id/886519}{\custombold{shahriar}}
+
+
+Stopstalk://  \href{https://www.stopstalk.com/user/profile/shahriar321}{\custombold{shahriar321}}
+
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Skills}
+\noindent\rule{5cm}{0.4pt}
+\subsection{OS}
+GNU/Linux, Windows
+\vspace{6pt}
+\subsection{Languages}
+C/C++ 
+\vspace{6pt}
+\subsection{Framework}
+Node.js 
+\vspace{6pt}
+\subsection{Databases}
+MySQL, MangoDB
+\vspace{6pt}
+\subsection{Others}
+Sublime Text, Geany,\\
+
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Coursework}
+\noindent\rule{5cm}{0.4pt}
+
+Data Structures\\
+Algorithm\\
+Graph Theory\\
+Discrete Mathematics\\
+
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+% \descript{BS in Computer ence}
+\hspace*{0pt}\hfill    \\
+\hspace*{0pt}\hfill    \\
+\hspace*{0pt}\hfill 421, Commerce College Road \\
+\hspace*{0pt}\hfill Chittagong, Bangladesh \\
+\hspace*{0pt}\hfill Mob.: +88-01988514302 \\
+\hspace*{0pt}\hfill Email.:\textbf{\href{mailto:rahulnitsxr@gmail.com}{shahriar.shh@gmail.com}} \\
+\hspace*{0pt}\hfill %Web.:\textbf{\href{http://rahulchauhan.net}{http://rahulchauhan.net}} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Competitive Programming}
+
+\noindent\rule{12.5cm}{0.4pt}
+Solved around \href{https://www.stopstalk.com/user/profile/shahriar321}{\custombold{1800+}} algorithmic problems cumulatively on Codeforces, AtCoder,  CodeChef,Uva,LightOj etc.
+
+ 
+  
+\custombold{Codeforces}
+\descript{ }
+\noindent
+\hspace{1.4em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+\textbullet Solved around \href{https://codeforces.com/profile/thedragonslayer
+}{\custombold{1200+}}algorithmic problems.
+
+\textbullet Participated in 100+ rated competitions.
+
+\end{minipage}
+
+\custombold{AtCoder}
+\descript{ }
+\noindent
+\hspace{1.4em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+\textbullet Solved around \href{https://kenkoooo.com/atcoder#/user/TheDragonSlayer}{\custombold{178}}  algorithmic problems.
+
+\textbullet Participated in 8 rated competitions.
+
+\end{minipage}
+
+
+\custombold{Uva Oj}
+\descript{ }
+\noindent
+\hspace{1.4em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+\textbullet Solved around \href{https://uhunt.onlinejudge.org/id/886519}{\custombold{200+}} algorithmic problems.
+
+\end{minipage}
+
+
+
+\custombold{Light Oj}
+\descript{ }
+\noindent
+\hspace{1.4em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+\textbullet Solved around \href{https://lightoj.com/user/shahriar-shh
+}{\custombold{90+}}  algorithmic problems.
+
+\end{minipage}
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Achievements}
+
+\noindent\rule{12.5cm}{0.4pt}
+
+\custombold{Online Individual Competitions}
+\\
+\custombold{Codeforces}
+\descript{ }
+\noindent
+\hspace{1.4em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+\textbullet Maximum Rated \href{https://codeforces.com/profile/shahriar_c137}{\custombold{1720, Expert Rank}} on Codeforces.
+
+\textbullet \href{https://codeforces.com/bestRatingChanges/4161062}{\custombold{102th rank}}out of 10k+ participants on Codeforces Round 690(Div.3)
+
+\textbullet \href{https://codeforces.com/bestRatingChanges/4648068}{\custombold{393th rank}} out of 10k+ participants on Codeforces
+Round 706(Div.2)
+
+\end{minipage}
+
+
+
+\custombold{Google Competitions}
+\descript{ }
+\noindent
+\hspace{1.4em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+
+\textbullet \href{https://drive.google.com/file/d/1_vjO6n-jG0TViJa8d_p-CoFwJVAZPGFK/view}{\custombold{2207th rank}}  out of 8k+ participant on Google kick
+Start 2021 ‐ Round C.
+
+\textbullet Secured  \href{https://drive.google.com/file/d/1Ecudwm4PQVkkLQ3VrtJBJo8_BrYv-hpL/view}{\custombold{60pts}} on Google Code Jam 2021 qualification Round
+
+
+\end{minipage}
+
+
+\custombold{AtCoder}
+\descript{ }
+\noindent
+\hspace{1.4em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+
+\textbullet Secured global rank 1268th out of 8k+ participant on AtCoder Be‐
+ginner Contest 189 .
+
+\textbullet Secured global rank 1575th out of 9k+ participant on AtCoder
+Beginner Contest 190.
+\\
+\end{minipage}
+
+
+\custombold{Team Competitions}
+\descript{ }
+\noindent
+\hspace{1.4em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+ 
+\textbullet Honorable mention on ACM ICPC Dhaka Site Regionals 2018 Con‐
+test.
+\textbullet Country Rank 46th out of 111 teams on BUET CSE Fest 2019 . Team‐
+IIUC{\_}Tomahawk .
+
+\textbullet Divisional rank 8th out of 40 teams on IIUC Intra Contest 2020.
+Team‐IIUC{\_}Assassins
+
+
+
+\end{minipage}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SIDE PROJECT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+\end{minipage} 
+\end{document}  \documentclass[]{article}
